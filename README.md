@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VisualWebster
 - 👀 I’m interested in web development and artificial intelligence
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on building an art identification website
+- 💞️ I’m looking to collaborate on building websites
 - 📫 How to reach me chidiacjoseph5@gmail.com
 
 - ⚡ Fun fact: I code on the beach
