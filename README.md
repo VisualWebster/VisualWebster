@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VisualWebster
-- 👀 I’m interested in web development and artificial intelligence
+- 👀 I’m interested in web development and accesibility
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on building websites
 - 📫 How to reach me chidiacjoseph5@gmail.com
